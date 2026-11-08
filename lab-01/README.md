@@ -1,7 +1,7 @@
 # Lab 1: Node.js and Express server
 
-**Name:** J Durga Prasad 
-**Registration number:** 252U1R6101
+**Name:** G Harshith Reddy 
+**Registration number:** 252U1R6078
 **Section:** AIML-2B / 207 
 
 ## Live link
